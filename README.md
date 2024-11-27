@@ -118,7 +118,7 @@ Follow these steps to set up and use Riter:
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/username/Riter.git
+   git clone https://github.com/mohammadKarimi/Riter.git
    ```
 2. Navigate to the project directory:
    ```bash
